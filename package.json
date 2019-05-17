@@ -1,0 +1,15 @@
+{
+  "name": "readdata",
+  "version": "1.0.0",
+  "description": "读取Excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hluk",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "xlsx": "^0.14.3"
+  }
+}
