@@ -28,6 +28,7 @@ _.forEach(dataa,(item)=>{
   // obj[item['模块代码']][item['代码(不加模块)']] = item['中文']  
   let obj = {}
   obj['img'] = item['主图'];
+  obj['url'] = item['链接'];
   obj['code'] = item['货号'];
   obj['price'] = item['直播价'];
   obj['desc'] = item['库存备注'];
