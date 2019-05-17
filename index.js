@@ -29,6 +29,8 @@ _.forEach(dataa,(item)=>{
   let obj = {}
   obj['img'] = item['主图'];
   obj['code'] = item['货号'];
+  obj['price'] = item['直播价'];
+  obj['desc'] = item['库存备注'];
   productArr.push(obj);
 })
 
