@@ -1,6 +1,6 @@
 node_modules/
-./index.js
-./package.json
-./yarn-error.log
-./TIME日记产品表5.6总表的副本.xlsx
-./~$TIME日记产品表5.6总表的副本.xlsx
+index.js
+package.json
+yarn-error.log
+TIME日记产品表5.6总表的副本.xlsx
+~$TIME日记产品表5.6总表的副本.xlsx
